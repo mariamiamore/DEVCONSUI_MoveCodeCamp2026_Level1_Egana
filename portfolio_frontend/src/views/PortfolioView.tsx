@@ -66,19 +66,18 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
-  course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  name: "MARY ELIZABETH EGANA",
+  course: "BS in Computer Engineering",
+  school: "PUP - Biñan Campus",
+  about: "I am a 3rd year students who loves to discover and experience new stuffs.",
   skills: [
-    "Graphic Design",
-    "UI / UX Design",
-    "Project Management",
-    "Full Stack Development",
-    "Web & App Development"
+    "Baisc UI / UX Design",
+    "CAD",
+    "Intermediate Microsoft Word Office Suite",
+    "Baic Web & App Development"
   ],
-  linkedin: "https://www.linkedin.com/in/ldcasilang/",
-  github: "https://github.com/ldcasilang",
+  linkedin: "",
+  github: "https://github.com/mariamiamore",
 }
 
 // Network configuration
