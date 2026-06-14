@@ -67,7 +67,7 @@ const useMetaTags = (metadata: {
 // ============================================================================
 const defaultPortfolioData = {
   name: "MARY ELIZABETH EGANA",
-  course: "BS in Computer Engineering",
+  course: "BS IN COMPUTER ENGINEERING",
   school: "PUP-BIÑAN CAMPUS",
   about: "I am a 3rd year students who loves to discover and experience new stuffs.",
   skills: [
