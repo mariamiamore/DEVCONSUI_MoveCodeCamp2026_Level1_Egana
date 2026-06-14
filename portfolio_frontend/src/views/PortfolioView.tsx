@@ -68,13 +68,13 @@ const useMetaTags = (metadata: {
 const defaultPortfolioData = {
   name: "MARY ELIZABETH EGANA",
   course: "BS in Computer Engineering",
-  school: "PUP - Biñan Campus",
+  school: "PUP-BIÑAN CAMPUS",
   about: "I am a 3rd year students who loves to discover and experience new stuffs.",
   skills: [
-    "Baisc UI / UX Design",
+    "Baisc UI/UX Design",
     "CAD",
     "Intermediate Microsoft Word Office Suite",
-    "Baic Web & App Development"
+    "Baic WebApp Development"
   ],
   linkedin: "",
   github: "https://github.com/mariamiamore",
